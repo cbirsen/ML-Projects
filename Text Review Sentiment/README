@@ -1,1 +1,8 @@
+Author of the project: Cansu Birsen
+Name of the project: Text Review Sentiment
 
+Summary: This project contains two models trying to solve the same problem of categorizing the sentiment 
+behind text reviews from Amazon, Yelp, and IMdB. Both models use a Bag of Words approach where reviews
+are vectorized with CountVectorizer in one of the models and with TfidfVectorizer in the other model.
+The model using CountVectorizer uses logistic regression to make the predictions while the model using 
+TfidfVectorizer uses random forest method to make predictions.
