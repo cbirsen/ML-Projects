@@ -1,1 +1,6 @@
+Author of the project: Cansu Birsen
+Name of the project: Book Review Categorizer
 
+Summary: This ML program reads in book reviews and decides whether the review is overall positive or negative. The 
+program achieves this by using a stack of features generated through a logistic regression and a neural network 
+model to predict the overall results using another logistic regression model.
